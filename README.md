@@ -2,7 +2,7 @@
 
 ### By Jayant Panwar
 
-This game was created as part of my assignment of the course _Design and Analysis of Software System_
+This game was created using python3 and without any curses libraries like pygame or turtle.
 
 ## Controls
 
